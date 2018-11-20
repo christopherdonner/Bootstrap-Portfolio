@@ -10,4 +10,9 @@ h1 {
 .navbar {
     float: right;
     background-color: green;
+    color: white;
+}
+
+body {
+    font-family: Montserrat;
 }
