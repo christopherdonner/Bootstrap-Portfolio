@@ -1,0 +1,13 @@
+header {
+    background-color: green;
+}
+
+h1 {
+    font-family: Niramit;
+    font-weight: bold;
+    color: green;
+}
+.navbar {
+    float: right;
+    background-color: green;
+}
