@@ -16,3 +16,19 @@ h1 {
 body {
     font-family: Montserrat;
 }
+
+footer {
+    position: fixed;
+    padding: 20px;
+    bottom: 0;
+    left: 0;
+    background-color: grey;
+    width: 100%;
+    border-top-width: 5px;
+    border-top-color: green;
+    border-top-style: solid;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    z-index: 3;
+}
